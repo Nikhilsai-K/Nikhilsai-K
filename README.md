@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on building high-performance data pipelines and crafting premium interactive websites through DigiHome.<br>👯 I’m looking to collaborate on innovative projects that merge the worlds of Data Engineering and highly creative Frontend Design.<br>🤝 I’m looking for help with exploring advanced cloud-native architectures and scaling open-source AI automation tools.<br>🌱 I’m currently learning Three.js for immersive 3D web experiences and continuing my mastery of the Japanese language.<br>💬 Ask me about my transition from studying in a private  university to working in Japan, Python automation, or how to build a career as a "Brave & Bold" developer.<br>⚡ Fun fact: I moved across continents to Japan to start my professional career, proving that no setback (like the IIT journey) is ever the end—just a redirection!
+# About Me:
+I’m currently working on building high-performance data pipelines and crafting premium interactive websites through DigiHome.<br>👯 I’m looking to collaborate on innovative projects that merge the worlds of Data Engineering and highly creative Frontend Design.<br>🤝 I’m looking for help with exploring advanced cloud-native architectures and scaling open-source AI automation tools.<br>🌱 I’m currently learning Three.js for immersive 3D web experiences and continuing my mastery of the Japanese language.<br>💬 Ask me about my transition from studying in a private  university to working in Japan, Python automation, or how to build a career as a "Brave & Bold" developer.<br>⚡ Fun fact: I moved across continents to Japan to start my professional career, proving that no setback (like the IIT journey) is ever the end—just a redirection!
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhilsai-K&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### Random Quote hmmm...
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
